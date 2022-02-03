@@ -1,8 +1,5 @@
-import { Delete, Edit } from "@mui/icons-material";
-import Button from "@mui/material/Button";
 
-
-export function Product({ pic, name, price, type, about1, about2, about3 }) {
+export function Product({ pic, name, price, type, about1, about2, about3, deleteButton, editButton }) {
     return (
         <div>
             <section>
@@ -22,25 +19,8 @@ export function Product({ pic, name, price, type, about1, about2, about3 }) {
                             <p className="price"> MRP Rs.{price}</p>
                             <p className="pricetax">inclusive of all taxes</p>
                         </div>
-                        <div>
-                            <Button
-                                style={{ marginBottom: "10px", marginTop:"10px" }}
-                                color="success"
-                                variant="contained"
-                                endIcon={<Edit />}
-                            >
-                                Edit
-                            </Button>
-                        </div>
-                        <div>
-                            <Button
-                                style={{ marginBottom: "10px", marginTop:"10px" }}
-                                color="error"
-                                variant="contained"
-                                endIcon={<Delete />}
-                            >
-                                Delete
-                            </Button>
+                        <div style={{ marginBottom: "1px", marginTop: "15px" }}>
+                            {editButton} {deleteButton}
                         </div>
                     </div>
                 </div>

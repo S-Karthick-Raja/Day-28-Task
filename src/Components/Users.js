@@ -1,5 +1,4 @@
 
-
 export function User({ name, avatar, deleteButton, editButton }) {
     
     

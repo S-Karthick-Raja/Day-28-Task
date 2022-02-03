@@ -26,6 +26,8 @@ export function Topbar() {
                 <hr />
                 <Link to="/products" className="home1">PRODUCTS</Link>
                 <hr />
+                <Link to="/Addcameras" className="home1">ADD PRODUCTS</Link>
+                <hr />
                 <Link to="/users" className="home1">USERS</Link>
                 <hr />
                 <Link to="/Addusers" className="home1">ADD USERS</Link>

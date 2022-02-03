@@ -1,0 +1,181 @@
+[
+  {
+    "id": "101",
+    "pic": "https://in.canon/media/image/2021/09/11/06fc9d1e5daf492fa995c8168749d1de_R3-front.png",
+    "name": "EOS R3 (Body)",
+    "type": "Professional",
+    "about1": "Up to 30 fps continuous shooting with AF/AE tracking",
+    "about2": "Eye Control AF + New Vehicle Priority AF",
+    "about3": "6K RAW recording + 4K movie with 6K oversampling",
+    "price": "499 995.00 "
+  },
+  {
+    "id": "102",
+    "pic": "https://in.canon/media/image/2020/10/12/ce5285aeefb24966b324099157013dc2_M50MII_Black_FrontSlantLeft_M15-45-.png",
+    "name": "EOS M50 Mark II ",
+    "type": "Beginner",
+    "about1": "In-camera YouTube live streaming for real-time video engagement",
+    "about2": "Film vertical videos in 4K for social media",
+    "about3": "Wireless connectivity with smartphone and cloud storage",
+    "price": "58 995.00"
+  },
+  {
+    "id": "103",
+    "pic": "https://in.canon/media/image/2020/07/04/20563b52bb03410493a7ae03674f3cbf_R6_Front_BODY.png",
+    "name": "EOS R6 (Body)",
+    "type": "Enthusiast",
+    "about1": "Approx. 20.1MP full-frame CMOS sensor + 4K video",
+    "about2": "Up to 8-stop In-Body Image Stabilizer X Optical Image Stabilizer",
+    "about3": "Low-light performance up to EV -6.5 + ISO 102 400",
+    "price": " 215 995.00"
+  },
+  {
+    "id": "104",
+    "pic": "https://in.canon/media/image/2020/07/04/862a1f43feed4fab85897aee45b6324c_R5_Front_BODY.png",
+    "name": "EOS R5 (Body)",
+    "type": "Professional",
+    "about1": "Approx. 45MP full-frame CMOS sensor",
+    "about2": "Up to 8-stop In-Body Image Stabilizer X Optical Image Stabilizer",
+    "about3": "Up to 20 fps + Animal Detection AF",
+    "price": "339 995.00"
+  },
+  {
+    "id": "105",
+    "pic": "https://in.canon/media/image/2019/08/27/57604d3575b84323b2f75c125d43dbc4_7_EOS+90D_BK_TheFront_Body.png",
+    "name": "EOS 90D (Body Only)",
+    "type": "Enthusiast",
+    "about1": "32.5megapixel APS-C CMOS Sensor + DIGIC 8",
+    "about2": "Dual pixel CMOS AF",
+    "about3": "45 cross-type AF (Optical Viewfinder)",
+    "price": "103 495.00"
+  },
+  {
+    "id": "106",
+    "pic": "https://in.canon/media/image/2020/01/06/429197eea6fc435c86bfef562852d832_EOS-1D-X-Mark-III-Front-362.png",
+    "name": "EOS-1D X Mark III",
+    "type": "Professional",
+    "about1": "20.1megapixel CMOS Sensor + DIGIC X image processor",
+    "about2": "Up to 191 point high-resolution AF sensor (Viewfinder AF)",
+    "about3": "Up to 16fps (OVF)/20fps (Live View) continuous shooting with AF/AE tracking",
+    "price": "609 495.00"
+  },
+  {
+    "id": "107",
+    "pic": "https://in.canon/media/migration/shared/live/products/EN/eos-5d-mk-iv-ef24-105mm-b1.png",
+    "name": "EOS 5D Mark IV Kit ",
+    "type": "Professional",
+    "about1": "30.4megapixel Full-frame CMOS Sensor",
+    "about2": "Dual pixel CMOS AF",
+    "about3": "4K Movie Shooting (25 / 30p) with 4K Frame Grab",
+    "price": "313 995.00"
+  },
+  {
+    "id": "108",
+    "pic": "https://in.canon/media/migration/shared/live/products/EN/eos6d-mkii-ef-24-105mm-l.png",
+    "name": "EOS 6D Mark II Kit",
+    "type": "Enthusiast",
+    "about1": "26.2megapixel Full-frame CMOS Sensor",
+    "about2": "Dual pixel CMOS AF",
+    "about3": "45 point all cross-type AF; 6.5fps continuous shooting",
+    "price": "192 995.00"
+  },
+  {
+    "id": "109",
+    "pic": "https://in.canon/media/image/2020/02/11/fff676b601864fd5bdfff7d8ff8fb658_EOS+850D+w+Kit+Lens+Front+Slant.png",
+    "name": "EOS 850D ",
+    "type": "Enthusiast",
+    "about1": "24.1megapixel APS-C CMOS sensor + 4K video recording",
+    "about2": "All cross-type 45 point AF (viewfinder) and Dual pixel CMOS AF (Live View)",
+    "about3": "Wi-Fi connectivity + user-friendly ergonomics and interface",
+    "price": "86 995.00"
+  },{
+    "id": "110",
+    "pic": "https://in.canon/media/image/2021/09/11/06fc9d1e5daf492fa995c8168749d1de_R3-front.png",
+    "name": "EOS R3 (Body)",
+    "type": "Professional",
+    "about1": "Up to 30 fps continuous shooting with AF/AE tracking",
+    "about2": "Eye Control AF + New Vehicle Priority AF",
+    "about3": "6K RAW recording + 4K movie with 6K oversampling",
+    "price": "499 995.00 "
+  },
+  {
+    "id": "111",
+    "pic": "https://in.canon/media/image/2020/10/12/ce5285aeefb24966b324099157013dc2_M50MII_Black_FrontSlantLeft_M15-45-.png",
+    "name": "EOS M50 Mark II ",
+    "type": "Beginner",
+    "about1": "In-camera YouTube live streaming for real-time video engagement",
+    "about2": "Film vertical videos in 4K for social media",
+    "about3": "Wireless connectivity with smartphone and cloud storage",
+    "price": "58 995.00"
+  },
+  {
+    "id": "112",
+    "pic": "https://in.canon/media/image/2020/07/04/20563b52bb03410493a7ae03674f3cbf_R6_Front_BODY.png",
+    "name": "EOS R6 (Body)",
+    "type": "Enthusiast",
+    "about1": "Approx. 20.1MP full-frame CMOS sensor + 4K video",
+    "about2": "Up to 8-stop In-Body Image Stabilizer X Optical Image Stabilizer",
+    "about3": "Low-light performance up to EV -6.5 + ISO 102 400",
+    "price": " 215 995.00"
+  },
+  {
+    "id": "113",
+    "pic": "https://in.canon/media/image/2020/07/04/862a1f43feed4fab85897aee45b6324c_R5_Front_BODY.png",
+    "name": "EOS R5 (Body)",
+    "type": "Professional",
+    "about1": "Approx. 45MP full-frame CMOS sensor",
+    "about2": "Up to 8-stop In-Body Image Stabilizer X Optical Image Stabilizer",
+    "about3": "Up to 20 fps + Animal Detection AF",
+    "price": "339 995.00"
+  },
+  {
+    "id": "114",
+    "pic": "https://in.canon/media/image/2019/08/27/57604d3575b84323b2f75c125d43dbc4_7_EOS+90D_BK_TheFront_Body.png",
+    "name": "EOS 90D (Body Only)",
+    "type": "Enthusiast",
+    "about1": "32.5megapixel APS-C CMOS Sensor + DIGIC 8",
+    "about2": "Dual pixel CMOS AF",
+    "about3": "45 cross-type AF (Optical Viewfinder)",
+    "price": "103 495.00"
+  },
+  {
+    "id": "115",
+    "pic": "https://in.canon/media/image/2020/01/06/429197eea6fc435c86bfef562852d832_EOS-1D-X-Mark-III-Front-362.png",
+    "name": "EOS-1D X Mark III",
+    "type": "Professional",
+    "about1": "20.1megapixel CMOS Sensor + DIGIC X image processor",
+    "about2": "Up to 191 point high-resolution AF sensor (Viewfinder AF)",
+    "about3": "Up to 16fps (OVF)/20fps (Live View) continuous shooting with AF/AE tracking",
+    "price": "609 495.00"
+  },
+  {
+    "id": "116",
+    "pic": "https://in.canon/media/migration/shared/live/products/EN/eos-5d-mk-iv-ef24-105mm-b1.png",
+    "name": "EOS 5D Mark IV Kit ",
+    "type": "Professional",
+    "about1": "30.4megapixel Full-frame CMOS Sensor",
+    "about2": "Dual pixel CMOS AF",
+    "about3": "4K Movie Shooting (25 / 30p) with 4K Frame Grab",
+    "price": "313 995.00"
+  },
+  {
+    "id": "117",
+    "pic": "https://in.canon/media/migration/shared/live/products/EN/eos6d-mkii-ef-24-105mm-l.png",
+    "name": "EOS 6D Mark II Kit",
+    "type": "Enthusiast",
+    "about1": "26.2megapixel Full-frame CMOS Sensor",
+    "about2": "Dual pixel CMOS AF",
+    "about3": "45 point all cross-type AF; 6.5fps continuous shooting",
+    "price": "192 995.00"
+  },
+  {
+    "id": "118",
+    "pic": "https://in.canon/media/image/2020/02/11/fff676b601864fd5bdfff7d8ff8fb658_EOS+850D+w+Kit+Lens+Front+Slant.png",
+    "name": "EOS 850D ",
+    "type": "Enthusiast",
+    "about1": "24.1megapixel APS-C CMOS sensor + 4K video recording",
+    "about2": "All cross-type 45 point AF (viewfinder) and Dual pixel CMOS AF (Live View)",
+    "about3": "Wi-Fi connectivity + user-friendly ergonomics and interface",
+    "price": "86 995.00"
+  }
+]
