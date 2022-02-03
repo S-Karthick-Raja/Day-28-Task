@@ -82,34 +82,36 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.user-container{
+.user-container {
   background-color: white;
   margin: 2rem;
   padding: 1rem;
   border-radius: 1rem;
   display: flex;
-  gap: 1rem ;
+  gap: 1rem;
   transition: all 0.5s;
+  flex-wrap: wrap;
+  align-items: center;
 }
 
-.user-avatar{
+.user-avatar {
   border-radius: 50%;
   height: 8rem;
   width: 8rem;
   object-fit: cover;
 }
 
-.user-name{
+.user-name {
   font-size: 1.4rem;
-  font-family: 'Pacifico', cursive;
+  font-family: "Pacifico", cursive;
 }
 
-.user-container:hover{
+.user-container:hover {
   transform: scale(1.05);
-  box-shadow: 15px 15px 38px 11px rgba(0,0,0,0.5);
+  box-shadow: 15px 15px 38px 11px rgba(0, 0, 0, 0.5);
 }
 
-.user-container:hover .user-name{
+.user-container:hover .user-name {
   color: crimson;
 }
 
@@ -118,3 +120,35 @@ body {
   font-weight: bold;
 }
 
+.user-main {
+  display: flex;
+  justify-content: space-around;
+}
+
+.wrap-user-list{
+  padding: 20px;
+  padding-top: 0px;
+}
+
+.Add-user-list{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  grid-gap: 20px;
+  gap: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.text-field{
+  width: 250px;
+  color: white;
+  background-color: rgba(245, 245, 245, 0.979);
+}
+
+.add-button{
+  display: flex;
+  justify-content: space-around;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
