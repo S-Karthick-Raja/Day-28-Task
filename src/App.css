@@ -116,11 +116,16 @@ body {
 .user-main {
   display: flex;
   justify-content: space-around;
+  /* background-color: white; */
+  background-image: url("https://static.vecteezy.com/system/resources/previews/001/991/212/non_2x/avatar-profile-pink-neon-icon-brick-wall-background-colour-neon-icon-vector.jpg");
 }
 
 .wrap-user-list{
   padding: 20px;
+  padding-top: 50px;
   padding-top: 0px;
+  background-image: url("https://149347278.v2.pressablecdn.com/wp-content/uploads/Users-Compliance-background.jpg");
+  height: 100vh;
 }
 
 .Add-user-list{
@@ -132,6 +137,8 @@ body {
   gap: 20px;
   padding: 20px;
   border-radius: 20px;
+  background-image: url("https://149347278.v2.pressablecdn.com/wp-content/uploads/Users-Compliance-background.jpg");
+ 
 }
 .text-field{
   width: 250px;
