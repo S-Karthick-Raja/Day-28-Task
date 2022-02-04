@@ -1,12 +1,5 @@
 body {
-  background-image: linear-gradient(
-    to right,
-    #2e59d1,
-    #a43fb9,
-    #dc1a8b,
-    #f12855,
-    #e95918
-  );
+  background-image: url("https://cdn.wallpapersafari.com/33/64/08GtIp.jpg");
   min-height: 100vh;
   font-family: "Poppins", sans-serif;
 }
@@ -151,4 +144,11 @@ body {
   justify-content: space-around;
   margin-top:10px;
   margin-bottom: 10px;
+}
+
+.home-page{
+  display:flex; 
+  margin-top:50px; 
+  justify-content:flex-start;
+  margin-left: 20px;
 }
